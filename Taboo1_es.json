@@ -536,7 +536,7 @@
         "09022-t": {
             "name": "Hacha rúnica",
             "front": {
-                "text": "Personalizable. Usos (4 cargas). Repón 1 de estas cargas al comienzo de cada ronda.\n<action>: <b>Combatir.</b> Recibes +1 [combat] para este ataque. Antes de este ataque, puedes gastar cualquier cantidad de cargas para imbuir el hacha de esa misma cantidad de inscripciones distintas --\n- <i>Precisión</i> - Recibes +2 [combat] adicional para este ataque.\n- <i>Poder</i> - Este ataque inflige +1 de daño.",
+                "text": "Mutada. Personalizable. Usos (4 cargas). Repón 1 de estas cargas al comienzo de cada ronda.\n<action>: <b>Combatir.</b> Recibes +1 [combat] para este ataque. Antes de este ataque, puedes gastar cualquier cantidad de cargas para imbuir el hacha de esa misma cantidad de inscripciones distintas --\n- <i>Precisión</i> - Recibes +2 [combat] adicional para este ataque.\n- <i>Poder</i> - Este ataque inflige +1 de daño.",
                 "traits": "Objeto. Arma. Cuerpo a cuerpo."
             }
         },
